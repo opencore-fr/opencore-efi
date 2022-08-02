@@ -25,7 +25,7 @@ Maintenant ouvrons le dossier EFI et regardons ce qu'il y a dedans
 
 Quelque chose que vous avez du remarquer maintenant est que le dossier `Drivers` et  `Tools` contienne beaucoup de choses inutiles dont on a pas besoin
 
-* **Gardez les fichiers suivants dans le dossier `Drivers`**(si possible):
+* **Gardez les fichiers suivants dans le dossier `Drivers`** (si possible):
 
 | Pilote | Nécessaire ou non | Description |
 | :---   | :---              | :---        |
@@ -66,7 +66,7 @@ Quelque chose que vous avez du remarquer maintenant est que le dossier `Drivers`
 
  </details>
 
-* **Gardes les fichiers suivants dans `Tools`** 
+* **Gardez les fichiers suivants dans `Tools`** 
 
 | Outil | nécessaire ou non | Description |
 | :---  | :---               | :---       |
