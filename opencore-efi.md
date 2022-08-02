@@ -28,7 +28,7 @@ Quelque chose que vous avez du remarquer maintenant est que le dossier `Drivers`
 * **Gardez les fichiers suivants dans le dossier `Drivers`**(si possible):
 
 | Pilote | Nécessaire ou non | Description |
-| :--- | :--- | :--- |
+| :---   | :---              | :---        |
 | OpenUsbKbDxe.efi | <span style="color:#30BCD5"> Optionnel </span> | Nécessaire pour les PC non-UEFI (avant 2012) |
 | OpenPartitionDxe.efi | ^^ | Nécessaire pour lancer la partition de récupération de macOS 10.7 à macOS 10.9  |
 | OpenRuntime.efi | <span style="color:red"> Nécessaire </span> | Nécessaire pour que ça fonctionne bien|
@@ -64,12 +64,12 @@ Quelque chose que vous avez du remarquer maintenant est que le dossier `Drivers`
   * utilisé pour Sandy Bridge et plus vieux quand aucun pilotes XHCI sont déjà inclus dans le logiciel
   * Uniquement nécessaire si vous utilisez une carte d'expension USB 3.0 dans une plus vielle machine
 
-  </details>
+ </details>
 
 * **Gardes les fichiers suivants dans `Tools`** 
 
 | Outil | nécessaire ou non | Description |
-| :--- | :--- | :--- |
+| :---  | :---               | :---       |
 | OpenShell.efi | <span style="color:#30BCD5"> Optionel </span> | Recommandé pour un débuggage plus facile |
 
 Un EFI Propre :
