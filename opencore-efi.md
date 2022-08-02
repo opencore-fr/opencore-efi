@@ -16,8 +16,8 @@ Une fois téléchargé, mettez le dossier EFI (de OpenCorePkg) à la racine de v
 **Note**:
 
 * **Utilisateurs Windows:** Mettez le dossier à la racine de la clé USB crée plus tot
-* **Linux users:** C'est la partition `OPENCORE` crée plus tot.
-  * Notre que la méthode 1 crée 1 partition, alors que la méthode 2 crée 2 partitions.
+* **LUtilisateurs Linux:** C'est la partition `OPENCORE` crée plus tot.
+  * Notez que la méthode 1 crée 1 partition, alors que la méthode 2 crée 2 partitions.
 
 Maintenant ouvrons le dossier EFI et regardons ce qu'il y a dedans
 
