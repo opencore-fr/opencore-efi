@@ -6,7 +6,7 @@ Pour créer la structure du dossier OpenCore, vous allez devoir prendre le dossi
 
 Debug VS Release :
 
-* **DEBUG**: Peux beaucoup aider pour débugger les problèmes de boot (démarrage), mais ajoute un peu de temps à chaque démarrages (ie. 3-5 secondes pour aller aux sélecteur de boot) Une fois installé, vous pouvez facilement passer à une version release
+* **DEBUG**: Peux beaucoup aider pour débugger les problèmes de boot (démarrage), mais ajoute un peu de temps à chaque démarrages (genre 3 à 5 secondes pour aller aux sélecteur de boot) Une fois installé, vous pouvez facilement passer à une version release
 * **RELEASE**: Temps de démarrages raccourcis, mais n'as pas de débug facilement, ce qui rend la résolution de problèmes bien plus difficiles.
 
 Une fois téléchargé, mettez le dossier EFI (de OpenCorePkg) à la racine de votre partition EFI:
