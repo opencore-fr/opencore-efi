@@ -78,9 +78,9 @@ Un EFI Propre :
 
 mainetant vous pouvez mettre **vos** pilotes logiciels nécessaires(.efi) dans le dossier _Drivers_ et Kexts/ACPI dans leurs dossier respectifs. Voir [Collecte de Fichiers](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#firmware-drivers) pour plus d'infos sur quels fichiers utiliser.
 
-* PRENEZ EN CONTE QUE LES DRIVERS CLOVER NE MARCHENET PAS SUR OPENCORE !!!!!(EmuVariableUEFI, AptioMemoryFix, OsxAptioFixDrv, etc). merci de voir le [guide de conversion de logiciel clover](https://github.com/dortania/OpenCore-Install-Guide/blob/master/clover-conversion/clover-efi.md) pour plus d'infos sur les pilotes supportées et ceux fussionés avec opencore.
+* PRENEZ EN COMPTE QUE LES DRIVERS CLOVER NE MARCHENET PAS SUR OPENCORE !!!!!(EmuVariableUEFI, AptioMemoryFix, OsxAptioFixDrv, etc). merci de voir le [guide de conversion de logiciel clover](https://github.com/dortania/OpenCore-Install-Guide/blob/master/clover-conversion/clover-efi.md) pour plus d'infos sur les pilotes supportées et ceux fusionés avec opencore.
 
-Voici a quoi **_peux_** ressembler un EFI 'peuplé' (le votre peux être différent):
+Voici a quoi **_peut_** ressembler un EFI 'peuplé' (le votre peux être différent):
 
 ![Dossier EFI Peuplé](https://dortania.github.io/OpenCore-Install-Guide/assets/img/populated-efi.8d46cc52.png)
 
@@ -90,4 +90,4 @@ Voici a quoi **_peux_** ressembler un EFI 'peuplé' (le votre peux être différ
 * Les Kexts(`.kext`) vont dans le dossier `Kexts`
 * les pilotes de logiciel (`.efi`) vont dans le dosier `Drivers`
 
-# Maintenant que tout ça est fait, direction  [Collecte de fichiers ](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#firmware-drivers) pour récupérer les fichiers Kexts et les pilotes nécessaires.
+# Maintenant que tout ça est fait, direction  [Collecte de fichiers ](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#firmware-drivers) pour récupérer les fichiers Kexts et les pilotes nécessaires :)
